@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 200
+rosdistro: 'indigo
+
+  '
+roslaunch:
+  uris: {host_marcgenevat_pc__35844: 'http://marcgenevat-PC:35844/'}
+rosversion: '1.11.13
+
+  '
+run_id: 786be9dc-7e90-11e5-b2f9-dc85de28d7c1
